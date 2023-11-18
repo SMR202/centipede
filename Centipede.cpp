@@ -20,7 +20,7 @@ int gameGrid[gameRows][gameColumns] = {};
 // The following exist purely for readability.
 const int x = 0;
 const int y = 1;
-const int exists = 2;
+const int exists = 2;	//hey
 
 /////////////////////////////////////////////////////////////////////////////
 //                                                                         //
